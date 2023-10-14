@@ -1,0 +1,1 @@
+print("Hello world, may neim is Sasha ")
